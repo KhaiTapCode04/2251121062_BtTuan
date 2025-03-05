@@ -1,0 +1,16 @@
+
+Câu 1. Mong muốn và định hướng của Bạn là gì sau khi học xong môn học là gì?
+Đáp án:
+Sau khi hoàn thành môn Lập trình thiết bị di động, em mong muốn:
+• Nắm vững kiến thức về Java/Kotlin và cách phát triển ứng dụng di động trên nền tảng Android.
+• Có khả năng xây dựng một ứng dụng di động hoàn chỉnh, từ UI đến backend.
+• Định hướng trở thành một Android Developer hoặc mở rộng sang lập trình đa nền tảng như Flutter.
+
+Câu 2. Theo bạn, trong tương lai gần (10 năm) lập trình di động có phát triển không? Giải thích tại sao?
+Đáp án:
+Em tin rằng trong 10 năm tới, lập trình di động sẽ tiếp tục phát triển mạnh mẽ vì:
+• Số lượng người dùng smartphone ngày càng tăng: 
+• Xu hướng công nghệ mới: Các công nghệ như AI thúc đẩy sự phát triển của ứng dụng di động.
+• Ứng dụng di động chiếm lĩnh thị trường: Em thấy hầu hết các doanh nghiệp đều cần ứng dụng để tiếp cận khách hàng, từ thương mại điện tử đến dịch vụ tài chính.
+
+Câu 3. Viết một ứng dụng có UI như sau đẩy lên github.
